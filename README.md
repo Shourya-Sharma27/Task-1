@@ -1,4 +1,5 @@
 Task 1 26.05.2025 
+
 Network Reconnaissance Using Nmap & Wireshark
 
 This project keenly focuses on performing basic network reconnaissance within a local network using Nmap and optionally analyzing traffic using Wireshark. The process is structured into 8 key steps which guide the user from installation to interpreting findings.
